@@ -1,2 +1,2 @@
 # Passreminder
-Password reminder in C
+Password reminder in C++
